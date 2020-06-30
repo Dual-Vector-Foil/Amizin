@@ -26,4 +26,7 @@ If you like these models, please consider buy them.
 
 
 ### 2292
-https://nizima.com/item/detailitem/2292
+Model source from https://nizima.com/item/detailitem/2292
+
+### St.Louis
+Model source from https://github.com/Eikanya/Live2d-model
