@@ -30,3 +30,6 @@ Model source from https://nizima.com/item/detailitem/2292
 
 ### St.Louis
 Model source from https://github.com/Eikanya/Live2d-model
+
+### FaceRig-Live2D
+Model source from FaceRig\Mod\VP\PC_Common\Objects
